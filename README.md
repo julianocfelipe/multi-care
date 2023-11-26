@@ -1,5 +1,4 @@
 # Trabalho Final Soluções Mobile
 MULTI-CARE
 
-Integrantes: Juliano Cardoso Felipe
-Renato Ribas Campos
+Integrantes: Juliano Cardoso Felipe e Renato Ribas Campos
